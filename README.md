@@ -7,3 +7,7 @@ Written in Python, with Git and VS Code.
 ## About
 
 I am learning Git and GitHub.
+
+## Run it
+
+    python hello.py
